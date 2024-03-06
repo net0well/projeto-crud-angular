@@ -25,8 +25,8 @@ Principais libs e frameworks utilizados:
   npm install
 
 # ter instalado
-  O json-server pode ser instalado com o comando npm install -g json-server.
-  Para executar, use o comando json-server --watch backend.json.
+  O json-server pode ser instalado com o comando npx install json-server
+  Para executar, use o comando json-server backend.json
 
 # Comando para rodar localmente
   ng serve
